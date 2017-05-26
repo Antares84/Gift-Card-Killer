@@ -37,6 +37,7 @@
 0.0.0.0 freeamazoncodes.cleanfiles.org
 0.0.0.0 free-gift-cards.co
 0.0.0.0 free-gift-codes.com
+0.0.0.0 free-googleplaycredit.com
 0.0.0.0 freecodes.me
 0.0.0.0 freecodeshub.com
 0.0.0.0 freefidgetspinner.cf
@@ -58,6 +59,7 @@
 0.0.0.0 freeppmoneyadd.com
 0.0.0.0 freesteamwalletcodes.xyz
 0.0.0.0 free-psplus.com
+0.0.0.0 fulltested.com
 0.0.0.0 gamebag.org
 0.0.0.0 gamehack123.us
 0.0.0.0 gamer-evolution-tools.live
@@ -123,6 +125,7 @@
 0.0.0.0 nohumanverification.com
 0.0.0.0 oneapprewards.ga
 0.0.0.0 online.freecodescheats.com
+0.0.0.0 playredeemcard.com
 0.0.0.0 ppadder.net
 0.0.0.0 probonogiftcards.com
 0.0.0.0 psnfree.com
@@ -130,6 +133,7 @@
 0.0.0.0 putranaga.com
 0.0.0.0 rootdownloads.com
 0.0.0.0 steamcodegenerator.online
+0.0.0.0 steamwallet-codes.com
 0.0.0.0 sweepstakesnow.info
 0.0.0.0 sweet-global.com
 0.0.0.0 tgiftcards.com
