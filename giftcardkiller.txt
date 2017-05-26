@@ -7,12 +7,16 @@
 # [ Gift Card Killer ]
 
 0.0.0.0 1080.plus
+0.0.0.0 1174.getgiftcards.org
+0.0.0.0 16059.getgiftcards.org
 0.0.0.0 24sevenapps.com
 0.0.0.0 38243.getgiftcards.org
 0.0.0.0 CodeGenerator.Online
 0.0.0.0 aiogenerator.com
 0.0.0.0 album-complet.com
 0.0.0.0 amazon.gametrice.net
+0.0.0.0 amazongiftcard.codegenerator.xyz
+0.0.0.0 appinject.top
 0.0.0.0 arepita.ch
 0.0.0.0 atlibs.com
 0.0.0.0 bestgifts4u.net
@@ -30,6 +34,7 @@
 0.0.0.0 dwnlds.co
 0.0.0.0 ecoworking.co
 0.0.0.0 firstgame.pro
+0.0.0.0 freeamazoncodes.cleanfiles.org
 0.0.0.0 free-gift-cards.co
 0.0.0.0 free-gift-codes.com
 0.0.0.0 freecodes.me
@@ -47,9 +52,11 @@
 0.0.0.0 freegiftcardsgenerator.com
 0.0.0.0 freeitunes4u.com
 0.0.0.0 freeitunescodesz.com
+0.0.0.0 freeitunesgiftcardcodes.xyz
 0.0.0.0 freenintendoswitch.net
 0.0.0.0 freepaypalgiftcard.com
 0.0.0.0 freeppmoneyadd.com
+0.0.0.0 freesteamwalletcodes.xyz
 0.0.0.0 free-psplus.com
 0.0.0.0 gamebag.org
 0.0.0.0 gamehack123.us
@@ -71,17 +78,21 @@
 0.0.0.0 getitunescodes.com
 0.0.0.0 getpsn.net
 0.0.0.0 gift-code.xyz
+0.0.0.0 gift-codes.org
+0.0.0.0 gift-codes.net
 0.0.0.0 gift4your.com
 0.0.0.0 giftcard4free.com
 0.0.0.0 giftcardcodes.live
 0.0.0.0 giftcardfree.pro
 0.0.0.0 giftcardrebel.co
 0.0.0.0 giftcardrebel.com
+0.0.0.0 gift-card-rebel.pw
 0.0.0.0 giftcardrebel.tech
 0.0.0.0 giftcardrebel.top
 0.0.0.0 giftcards.payluwagan.com
 0.0.0.0 giftcards.uniquework.us
 0.0.0.0 giftcards.utwitch.com
+0.0.0.0 giftcardshunters.com
 0.0.0.0 giftcardsking.com
 0.0.0.0 giftcardsking.net
 0.0.0.0 giftcardsking.online
@@ -91,11 +102,13 @@
 0.0.0.0 giveawayzone.pw
 0.0.0.0 givemegiftcodes.com
 0.0.0.0 goodies.esy.es
+0.0.0.0 googleplaygiftcardcode.xyz
 0.0.0.0 googleplay.redeemcode.xyz
 0.0.0.0 hacktoo.com
 0.0.0.0 housecarers.top
 0.0.0.0 howtogetfreegiftcards.online
 0.0.0.0 imba-tools.com
+0.0.0.0 instantcodegenerator.info
 0.0.0.0 instantgiftcodes.com
 0.0.0.0 itunes.codegenerator.xyz
 0.0.0.0 iwanttunes4free.com
