@@ -11,6 +11,7 @@
 0.0.0.0 16059.getgiftcards.org
 0.0.0.0 24sevenapps.com
 0.0.0.0 38243.getgiftcards.org
+0.0.0.0 44285.getgiftcards.org
 0.0.0.0 CodeGenerator.Online
 0.0.0.0 cards.elitehacks.co
 0.0.0.0 aiogenerator.com
@@ -36,6 +37,7 @@
 0.0.0.0 dumox.net
 0.0.0.0 dwnlds.co
 0.0.0.0 ecoworking.co
+0.0.0.0 fidgetspinner.website
 0.0.0.0 firstgame.pro
 0.0.0.0 freeamazoncodes.cleanfiles.org
 0.0.0.0 free-gift-cards.co
