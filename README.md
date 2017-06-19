@@ -1,4 +1,7 @@
 # Gift-Card-Killer
-A Filter List for PiHole / Hosts! 
 
-This list will add domains that are spam/fake gift card generators to your black list on PiHole or Hosts file.
+A Killer Hosts List aimed for Pihole!
+
+Ever see on the web comments that claim to give out free gift cards or generators for free products but instead are just malicious/fradulent/spam? This list file will blacklist them for you!
+
+*Updated regularly but it seems stable.
