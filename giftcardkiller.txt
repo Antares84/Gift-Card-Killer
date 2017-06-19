@@ -1,6 +1,6 @@
-# This is a list to prevent those fake survey gift card websites that seem to replicate # itself. Hopefully, this prevents a majority of them.
+# This is a list to prevent those fake survey gift card / fradulent websites that seem to replicate itself. Hopefully, this prevents a majority of them.
 # Leaf a like? - Ghost Coffee
-# Last Updated: 6/17/17
+# Last Updated: 6/19/17
 
 # FUCK OFFFFFFF <3
 
@@ -11,6 +11,7 @@
 0.0.0.0 16059.getgiftcards.org
 0.0.0.0 24sevenapps.com
 0.0.0.0 38243.getgiftcards.org
+0.0.0.0 42343.getgiftcards.org
 0.0.0.0 44285.getgiftcards.org
 0.0.0.0 CodeGenerator.Online
 0.0.0.0 cards.elitehacks.co
@@ -157,6 +158,7 @@
 0.0.0.0 putranaga.com
 0.0.0.0 robloxgiftcard.com
 0.0.0.0 rootdownloads.com
+0.0.0.0 ser.comli.com
 0.0.0.0 simplegiftcardgenerator.com
 0.0.0.0 snapleak.online
 0.0.0.0 snapleaks.wiki
@@ -174,6 +176,7 @@
 0.0.0.0 tgiftcards.com
 0.0.0.0 thebigcheats.com
 0.0.0.0 thekevinbacongame.com
+0.0.0.0 tridentcola.com
 0.0.0.0 ulinks.net
 0.0.0.0 unlimitedcodes.swimhealth.net
 0.0.0.0 unusedgiftcodes.com
