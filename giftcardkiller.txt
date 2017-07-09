@@ -51,6 +51,7 @@
 0.0.0.0 free-googleplaycredit.com
 0.0.0.0 freecodes.me
 0.0.0.0 freecodeshub.com
+0.0.0.0 free-couponcode.com
 0.0.0.0 freefidgetspinner.cf
 0.0.0.0 freefidgetspinner.net
 0.0.0.0 freegc.ga
